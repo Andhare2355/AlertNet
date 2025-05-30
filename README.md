@@ -118,7 +118,7 @@ AlertNet follows a modular architecture with the following components:
 
 #### **Steps**
 
-1.  git clone (https://github.com/Andhare2355/AlertNet)
+1.  git clone (https://andhare2355.github.io/AlertNet/). 
 2.  cd alertnet
     
 3.  **Set up the backend**:
